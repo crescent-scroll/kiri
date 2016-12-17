@@ -1,0 +1,21 @@
+Kiri - A tiny C++ source code assistant
+
+
+What is Kiri?
+
+Kiri is a minimal software solution designed to assist in the process of C++
+project development by taking on responsibility for clean source code.
+
+
+What does Kiri do?
+
+Kiri is capable of scanning C++ source files and correcting human errors in
+terms of code formatting, include directives or forward declarations. When run
+in daemon mode, Kiri can watch for changes in the source tree and automatically
+apply changes if necessary.
+
+
+Is Kiri free software?
+
+Free use of Kiri is granted under the terms of the GNU General Public License,
+version 3. See LICENSE for more information.
